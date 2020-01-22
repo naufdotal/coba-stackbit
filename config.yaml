@@ -19,7 +19,7 @@ params:
 menu:
   main:
     - identifier: menuu
-      name: HOME
+      name: SORE WA
       url: /
       weight: 1
 disableKinds:
