@@ -20,7 +20,7 @@ menu:
   main:
     - identifier: menuu
       name: SORE WA
-      url: /
+      url: /fragments-of-iceland/
       weight: 1
 disableKinds:
   - RSS
